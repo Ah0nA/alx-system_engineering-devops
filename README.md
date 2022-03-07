@@ -1,1 +1,1 @@
-i am doing devops
+this is shell redirections
